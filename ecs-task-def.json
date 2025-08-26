@@ -4,7 +4,7 @@
   "containerDefinitions": [
     {
       "name": "nodejs-container",
-      "image": "851725332976.dkr.ecr.us-east-1.amazonaws.com/exp-code-pipeline:latest"
+      "image": "851725332976.dkr.ecr.us-east-1.amazonaws.com/exp-code-pipeline:latest",
       "memory": 512,
       "cpu": 256,
       "essential": true,
